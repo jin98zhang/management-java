@@ -1,3 +1,11 @@
+## 项目（后端）启动流程
+* 1.启动mysql
+* 2.启动redis
+  * 在redis目录 打开命令 window+r 输入cmd
+  * 输入 redis-server.exe redis.windows.conf 启动redis命令，看是否成功
+* 3.运行 RuoYiApplication
+
+
 ## 平台简介
 
 * 前端采用Vue、Element UI。
@@ -6,11 +14,7 @@
 * 支持加载动态权限菜单，多方式轻松权限控制。
 * 高效率开发，使用代码生成器可以一键生成前后端代码。
 * 感谢[RuoYi-Vue](https://github.com/yangzongzhuan/RuoYi-Vue)。
-* 华为云优惠券：[点我进入](https://www.huaweicloud.com/product/ecs.html?fromacct=2b023ba5-33f5-478c-bbdf-33e27cd7459c&utm_source=V1g3MDY4NTY=&utm_medium=cps&utm_campaign=201905)
-* 阿里云优惠券：[点我进入](https://promotion.aliyun.com/ntms/yunparter/invite.html?userCode=ek76b2lk)
 
-#### 部署文档与ruoyi-vue一致:https://doc.ruoyi.vip/ruoyi-vue/
-#### 部署文档与ruoyi-vue一致:https://doc.ruoyi.vip/ruoyi-vue/
 #### 部署文档与ruoyi-vue一致:https://doc.ruoyi.vip/ruoyi-vue/
 
 #### 重要的事情说三遍
@@ -121,39 +125,9 @@ v1.0
 ## 演示图
 
 <table>
-    <tr>
-        <td><img src="http://www.ltdigit.cn/img/1600223031.jpg"/></td>
-        <td><img src="https://oscimg.oschina.net/oscnet/1cbcf0e6f257c7d3a063c0e3f2ff989e4b3.jpg"/></td>
-    </tr>
-    <tr>
-        <td><img src="https://oscimg.oschina.net/oscnet/up-8074972883b5ba0622e13246738ebba237a.png"/></td>
-        <td><img src="https://oscimg.oschina.net/oscnet/up-9f88719cdfca9af2e58b352a20e23d43b12.png"/></td>
-    </tr>
-    <tr>
-        <td><img src="https://oscimg.oschina.net/oscnet/up-39bf2584ec3a529b0d5a3b70d15c9b37646.png"/></td>
-        <td><img src="https://oscimg.oschina.net/oscnet/up-936ec82d1f4872e1bc980927654b6007307.png"/></td>
-    </tr>
-	<tr>
-        <td><img src="https://oscimg.oschina.net/oscnet/up-b2d62ceb95d2dd9b3fbe157bb70d26001e9.png"/></td>
-        <td><img src="https://oscimg.oschina.net/oscnet/up-d67451d308b7a79ad6819723396f7c3d77a.png"/></td>
-    </tr>	 
-    <tr>
-        <td><img src="https://oscimg.oschina.net/oscnet/5e8c387724954459291aafd5eb52b456f53.jpg"/></td>
-        <td><img src="https://oscimg.oschina.net/oscnet/644e78da53c2e92a95dfda4f76e6d117c4b.jpg"/></td>
-    </tr>
-	<tr>
-        <td><img src="https://oscimg.oschina.net/oscnet/up-8370a0d02977eebf6dbf854c8450293c937.png"/></td>
-        <td><img src="https://oscimg.oschina.net/oscnet/up-49003ed83f60f633e7153609a53a2b644f7.png"/></td>
-    </tr>
-	<tr>
-        <td><img src="https://oscimg.oschina.net/oscnet/up-d4fe726319ece268d4746602c39cffc0621.png"/></td>
-        <td><img src="https://oscimg.oschina.net/oscnet/up-c195234bbcd30be6927f037a6755e6ab69c.png"/></td>
-    </tr>
 
 </table>
 
 
 ## 若依前后端分离工作流交流群
 
-QQ群1：  [![加入QQ群](https://img.shields.io/badge/815390100-blue.svg)](https://qm.qq.com/cgi-bin/qm/qr?k=nrV3xrlurpfJp-SNd1TrUr__S8AzgrPH&jump_from=webapi") 815390100 点击按钮入群。
-QQ群2：  [![加入QQ群](https://img.shields.io/badge/1030614591-blue.svg)](https://qm.qq.com/cgi-bin/qm/qr?k=eseCOPaRhBa07elfzLiiB6yeJuBLmrNF&jump_from=webapi") 1030614591 点击按钮入群。
